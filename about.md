@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Sou desenvolvedor de software Full Stack com mais de 4 anos de experiência liderando equipes ágeis multidisciplinares e construindo soluções baseadas na web.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Atualmente, minha principal linguagem de programação é Python, mas eu também já trabalhei com outras tecnologias como Groovy on Grails, Java, e C#.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Apesar de focar em desenvolvimento backend, eu consigo ser produtivo também com tecnologias frontend como JavaScript e CSS.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Este site é uma mistura de blog, currículo e portfolio. Aqui eu compartilho ideias e experiências profissionais e pessoais.
