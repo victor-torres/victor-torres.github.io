@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mais uma plataforma de chat para desenvolvedores"
-date:   2015-06-11 17:25:00 -0300
+date:   2015-06-11 20:25:00 -0300
 categories: reviews
 ---
 ![Gitter](/assets/images/2015-06-11-gitter.jpg)
