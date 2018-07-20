@@ -48,7 +48,7 @@ Durante essa oportunidade, eu apresentei sobre minha experiência ensinando rob�
 
 Eu também dei uma ajuda ao Jonatas Oliveira, que trabalhou comigo na Evolux, quando ele estava desenhando a logo do evento para colocar nas camisetas, sugerindo algumas alterações de estilo e contorno para dar um maior destaque ao vetor do Forte dos Reis Magos.
 
-Junto com Lucas Castro, eu recepcionei a keynote Jessica McKellar e seu marido Adam Fletcher. Na época ela era Engenheira do Dropbox e Diretora da Python Software Foundation. O Adam trabalhava no Google, mais precisamente com o YouTube.
+Junto com Lucas Castro, eu recepcionei a keynote Jessica McKellar e o Adam Fletcher. Na época ela era Engenheira do Dropbox e Diretora da Python Software Foundation. O Adam trabalhava no Google, mais precisamente com o YouTube.
 
 
 # RuPy 2014
