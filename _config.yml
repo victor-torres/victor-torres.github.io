@@ -17,8 +17,8 @@ title: Victor Torres
 email: vpaivatorres@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Full Stack software developer and tech lead.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://victortorres.net.br" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: victorpaivatorres
 github_username:  victor-torres
 
