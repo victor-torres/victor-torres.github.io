@@ -3,6 +3,7 @@ layout: post
 title:  "Rolagem de tela natural e tradicional no Mac OS X"
 date:   2015-07-19 13:26:00 -0300
 categories: macos
+comments: true
 ---
 ![MacBook gestures](/assets/images/2015-07-19-macbook-gestures.png)
 

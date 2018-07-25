@@ -3,6 +3,7 @@ layout: post
 title:  "Construindo um hackintosh"
 date:   2015-08-16 16:13:00 -0300
 categories: macos
+comments: true
 ---
 Hackintosh é como chamam uma máquina genérica (não-apple) que possui instalado e consegue executar o sistema operacional Mac OS X. Já fiz alguns, todos com hardware Intel, mas nunca documentei o processo. A seguir, algumas informações sobre as peças que eu utilizei e os procedimentos que foram executados.
 

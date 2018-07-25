@@ -3,6 +3,7 @@ layout: post
 title:  "Qual a diferença entre um @here e um @all no HipChat?"
 date:   2016-04-04 10:18:00 -0300
 categories: produtividade
+comments: true
 ---
 ![HipChat](/assets/images/2016-04-04-hipchat.png)
 

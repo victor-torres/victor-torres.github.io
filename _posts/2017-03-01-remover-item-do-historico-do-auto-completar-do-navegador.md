@@ -3,6 +3,7 @@ layout: post
 title:  "Remover item do histórico do auto-completar do navegador"
 date:   2017-03-01 12:55:00 -0300
 categories: dicas
+comments: true
 ---
 No macOS, quando você começa a escrever num campo de texto do navegador, seja no Google Chrome, Mozilla Firefox ou no próprio Safari, aparecem algumas opções no histórico para auto-completar os dados. Às vezes a gente inclui dados sensíveis nesse histório ou apenas escrevemos um endereço de e-mail errado e submetemos o formulário. Dessa forma, toda vez que vamos digitar alguma coisa ele fica repetindo essas sugestões indesejadas.
 

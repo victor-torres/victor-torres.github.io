@@ -3,6 +3,7 @@ layout: post
 title:  "Windows 10 consumindo 100% de leitura/escrita em disco "
 date:   2016-05-28 22:18:00 -0300
 categories: windows
+comments: true
 ---
 ![Windows](/assets/images/2016-05-28-windows.png)
 

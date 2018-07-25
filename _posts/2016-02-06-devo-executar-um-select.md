@@ -3,6 +3,7 @@ layout: post
 title:  "Devo executar um “SELECT *”?"
 date:   2016-02-06 14:54:00 -0300
 categories: database
+comments: true
 ---
 A resposta curta é não e podemos justificá-la por dois motivos simples.
 

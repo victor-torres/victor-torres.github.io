@@ -3,6 +3,7 @@ layout: post
 title:  "Liberando espaço em disco removendo Cache do Apple Bird"
 date:   2015-09-30 09:59:00 -0300
 categories: macos
+comments: true
 ---
 Mais uma dica para quem tem Mac com disco pequeno e está com pouco espaço disponível.
 

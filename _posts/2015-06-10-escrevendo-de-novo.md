@@ -3,6 +3,7 @@ layout: post
 title:  "Escrevendo de novo"
 date:   2015-06-10 23:25:00 -0300
 categories: off-topic
+comments: true
 ---
 Mais uma vez volto ao mundo dos blogs, agora com o **victortorres.net.br**, meu blog pessoal e tecnológico, se é que posso descrevê-lo assim.
 

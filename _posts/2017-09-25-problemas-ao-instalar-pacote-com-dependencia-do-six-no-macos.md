@@ -3,6 +3,7 @@ layout: post
 title:  "Problemas ao instalar pacote com dependência do six no macOS"
 date:   2017-09-25 12:00:00 -0300
 categories: macos
+comments: true
 ---
 Se você está tentando fazer um pip install virtualenvwrapper, por exemplo, ou de algum outro pacote que depende do six, pode encontrar o seguinte erro no OS X El Capitan, macOS Sierra ou em diante:
 

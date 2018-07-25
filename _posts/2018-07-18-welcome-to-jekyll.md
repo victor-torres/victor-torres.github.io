@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-07-18 18:36:45 -0300
 categories: jekyll update
+comments: true
 ---
 Estou migrando da plataforma WordPress para o gerador de sites estáticos Jekyll. O WordPress é um sistema muito poderoso, mas eu acredito que o Jekyll atenderá melhor as minhas necessidades. [Sempre quis um sistema de publicações simples](/2015/06/10/escrevendo-de-novo) e o WordPress estava começando a me dar trabalho demais.
 

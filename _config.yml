@@ -22,7 +22,8 @@ url: "https://victortorres.net.br" # the base hostname & protocol for your site,
 linkedin_username: victorpaivatorres
 github_username:  victor-torres
 google_analytics: UA-40516497-4
-disqus.shortname: victortorres
+disqus:
+  shortname: victortorres
 
 # Build settings
 markdown: kramdown

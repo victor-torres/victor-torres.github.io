@@ -3,6 +3,7 @@ layout: post
 title:  "Arch Linux: key “CEB167EFB5722BD6″ could not be looked up remotely"
 date:   2018-02-25 15:50:00 -0300
 categories: linux
+comments: true
 ---
 Passei um tempo sem atualizar meus pacotes do Arch Linux no meu notebook porque só estava dando boot no Windows 10, lá eu uso uma outra instalação do Arch rodando com o Virtual Box (estou achando melhor do que usar o WSL e dá pra manter mais fácil, tem suporte a snapshots, o sistema de arquivos é mais rápido, funciona também como uma espécie de sandbox…).
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Problemas com o pip após atualização"
 date:   2017-09-26 07:30:00 -0300
 categories: macos
+comments: true
 ---
 > pkg_resources.DistributionNotFound: pip==1.5.4
 

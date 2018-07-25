@@ -3,6 +3,7 @@ layout: post
 title:  "Desenrolando seu e-mail"
 date:   2017-09-06 18:00:00 -0300
 categories: produtividade
+comments: true
 ---
 Todo mundo deve receber milhares de mensagens via e-mail, assinaturas em listas indesejadas, propaganda etc. A etiqueta da Internet diz que todo e-mail desse tipo deve ser um botão para Cancelar Assinatura no rodapé de cada mensagem. Mas remover sua inscrição dessas listas muitas vezes é chato e complicado e por vezes acaba nem funcionando. Às vezes você até quer sair da lista, mas uma ou outra mensagem que recebe em meio aos montes, acaba sendo interessante e você não quer abrir mão dessas informações.
 

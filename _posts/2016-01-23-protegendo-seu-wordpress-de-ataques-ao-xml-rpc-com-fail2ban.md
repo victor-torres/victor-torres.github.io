@@ -3,6 +3,7 @@ layout: post
 title:  "Protegendo seu WordPress de ataques ao XML-RPC com fail2ban"
 date:   2016-01-23 14:54:00 -0300
 categories: linux
+comments: true
 ---
 Esses dias comecei a receber alertas do NewRelic avisando que um dos meus sites WordPress estava fora do ar. Ao entrar no servidor e analisar o log de erros do NGINX em /var/log/nginx/error.log, percebi que estavam atacando o arquivo xmlrpc.php, provavelmente tentando adquirir acesso ao sistema através de força bruta ou simplesmente para tirar meu serviço do ar.
 

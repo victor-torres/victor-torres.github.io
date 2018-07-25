@@ -3,6 +3,7 @@ layout: post
 title:  "Saiba que arquivos estão consumindo o espaço do seu Mac"
 date:   2015-08-30 12:09:00 -0300
 categories: macos
+comments: true
 ---
 ![GrandPerspective](/assets/images/2015-08-30-grandperspective.png)
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Instalando XFCE no Windows 10"
 date:   2017-10-16 14:54:00 -0300
 categories: windows
+comments: true
 ---
 Agora que o Windows roda um Linux quase que nativamente, nada mais natural do que imaginar uma interface gráfica rodando junto num mesmo sistema.
 

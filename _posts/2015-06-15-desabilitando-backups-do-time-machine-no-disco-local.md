@@ -3,6 +3,7 @@ layout: post
 title:  "Desabilitando backups do Time Machine no disco local"
 date:   2015-06-15 21:28:00 -0300
 categories: macos
+comments: true
 ---
 ![Time Machine](/assets/images/2015-06-15-time-machine.png)
 O Time Machine faz backups automáticos do seu sistema no disco local ou num disco externo de forma automática e periódica, basta ativar essa funcionalidade nas Preferências do Sistema do seu Mac OS X.

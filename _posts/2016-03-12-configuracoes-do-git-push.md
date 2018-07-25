@@ -3,6 +3,7 @@ layout: post
 title:  "Configurações do git push"
 date:   2016-03-12 09:27:00 -0300
 categories: git
+comments: true
 ---
 Você pode escolher como quer que o git faça o envio das modificações em seu repositório local através da configuração push.default. Veja a lista de opções e o que cada uma delas faz:
 

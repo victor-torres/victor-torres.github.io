@@ -3,6 +3,7 @@ layout: post
 title:  "Controlando o brilho de um monitor com o MacBook"
 date:   2015-06-19 20:22:00 -0300
 categories: macos
+comments: true
 ---
 ![MacBook](/assets/images/2015-06-19-macbook.jpg)
 

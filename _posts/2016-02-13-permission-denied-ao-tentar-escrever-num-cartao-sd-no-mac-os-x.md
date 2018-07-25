@@ -3,6 +3,7 @@ layout: post
 title:  "“Permission denied” ao tentar escrever num Cartão SD no Mac OS X"
 date:   2016-02-13 11:33:00 -0300
 categories: macos
+comments: true
 ---
 Fui tentar gravar uma imagem num SD card para utilizar num Raspberry Pi e fiz o procedimento de costume. Desmontei o disco com o diskutil:
 

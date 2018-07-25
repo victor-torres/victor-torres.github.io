@@ -3,6 +3,7 @@ layout: post
 title:  "Exibindo e ocultando o Dock mais rápido"
 date:   2016-10-12 12:58:00 -0300
 categories: macos
+comments: true
 ---
 Dá pra configurar o Dock do Mac OS X para ser ocultado e exibido automaticamente quando a gente passa o mouse, mas o tempo padrão para que isso ocorra é um pouco “lento” e pode atrapalhar o uso diário.
 

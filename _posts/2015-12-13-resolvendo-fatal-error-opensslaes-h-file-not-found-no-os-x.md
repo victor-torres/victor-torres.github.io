@@ -3,6 +3,7 @@ layout: post
 title:  "Resolvendo “fatal error: ‘openssl/aes.h’ file not found” no OS X"
 date:   2015-12-13 17:18:00 -0300
 categories: macos
+comments: true
 ---
 A Apple parou de utilizar o OpenSSL no OS X El Capitan e em seu lugar utiliza seu próprio TLS e bibliotecas de criptografia.
 

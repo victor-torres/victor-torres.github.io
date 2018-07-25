@@ -3,6 +3,7 @@ layout: post
 title:  "Organizando janelas no OS X com atalhos"
 date:   2015-12-11 21:33:00 -0300
 categories: macos
+comments: true
 ---
 Uma coisa que o Windows já fornece por padrão é o redimensionamento de janelas por região da tela. Você pode facilmente colocar duas janelas lado-a-lado. O Mac OS X El Capitan introduziu esse recurso, mas ele não é muito prático e funciona meio que como uma gambiarra no modo tela-cheia.
 

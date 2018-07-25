@@ -3,6 +3,7 @@ layout: post
 title:  "pbcopy e pbpaste do macOS no Linux"
 date:   2018-02-26 12:00:00 -0300
 categories: linux
+comments: true
 ---
 Tem dois comandos muito legais no macOS que servem pra copiar e colar texto a partir de terminais do sistema. São muito úteis para fazer scripts de automatização. Eu também uso eles pra integrar a área de transferência do tmux com a do sistema operacional.
 

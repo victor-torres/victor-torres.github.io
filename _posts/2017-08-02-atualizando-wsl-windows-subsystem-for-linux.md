@@ -3,6 +3,7 @@ layout: post
 title:  "Atualizando WSL – Windows Subsystem for Linux"
 date:   2017-08-02 21:10:00 -0300
 categories: windows
+comments: true
 ---
 Verifique em que versão você está agora:
 

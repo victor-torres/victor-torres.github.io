@@ -3,6 +3,7 @@ layout: post
 title:  "Do Spotify ao Apple Music"
 date:   2015-07-05 16:32:00 -0300
 categories: off-topic
+comments: true
 ---
 ![Introducing Apple Music](/assets/images/2015-07-05-introducing-apple-music.png)
 
