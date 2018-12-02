@@ -4,6 +4,14 @@ title: Conferências
 permalink: /conferencias/
 ---
 
+# Python Brasil 2018
+
+> Natal, RN
+
+Evento nacional realizado anualmente para reunir a comunidade Python brasileira. Esse ano o evento acontececu na minha cidade, em Natal/RN. Fiz uma Lightning Talking sobre o [sinesp-client](https://github.com/victor-torres/sinesp-client) e uma Talk sobre [minha experiência implementando o suporte a multi-tenancy no Evolux](https://speakerdeck.com/victortorres/implementando-suporte-a-multi-tenancy-em-uma-aplicacao-critica).
+
+Foi também uma oportunidade de conhecer meus colegas de trabalho remoto da Scrapinghub.
+
 # Crescendo com o Google: Marketing Digital
 
 > Natal, RN

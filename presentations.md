@@ -9,12 +9,17 @@ Veja mais detalhes sobre os eventos na seção [conferêcias](/conferencias).
 
 # [Web] Implementando suporte a multi-tenancy em uma aplicação web crítica
 
+> Python Brasil 2018
+> em Natal, RN
+
 > Python Nordeste 2018
 > em Campina Grande, PB
 
 Nessa palestra eu compartilhei informações valiosas sobre o que aprendemos na Evolux ao implementar o suporte a multi-tenancy em nossa solução de Call Center como um Serviço. Indicada para quem planeja escalar e distribuir o seu sistema em nuvem ou para quem tem curiosidade sobre o assunto.
 
-Essa palestra foi gravada, mas ainda não foram disponibilizado o vídeo. Ela também foi submetida para a Python Brasil 2018, estou aguardando o resultado definitivo ser divulgado.
+Essa palestra foi gravada, mas ainda não foram disponibilizado o vídeo, nem da Python Brasil nem da Python Nordeste ainda.
+
+Os slides estão no [Speaker Deck](https://speakerdeck.com/victortorres/implementando-suporte-a-multi-tenancy-em-uma-aplicacao-critica).
 
 
 # [o que eu aprendi] ensinando robótica para crianças e adolescentes
