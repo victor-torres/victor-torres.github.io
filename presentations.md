@@ -7,6 +7,17 @@ permalink: /apresentacoes/
 Veja mais detalhes sobre os eventos na seção [conferêcias](/conferencias).
 
 
+# Minicurso de Scrapy
+
+> Poticon 2018
+> em Natal, RN
+
+> Python Day Dezembro 2018
+> em Natal, RN
+
+Introdução à atividade de web scraping com Python utilizando a biblioteca open-source Scrapy, criada e mantida pela Scrapinghub. Os slides foram gentilmente cedidos pelo Renne Rocha de um minicurso que ele fez com o mesmo tema na Python Brasil 2018. Eles podem ser acessados [neste link](https://github.com/rennerocha/pybr14-scrapy-tutorial/blob/master/Scrapy-Tutorial.pdf).
+
+
 # [Web] Implementando suporte a multi-tenancy em uma aplicação web crítica
 
 > Python Brasil 2018
