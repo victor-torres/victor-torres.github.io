@@ -7,6 +7,13 @@ permalink: /apresentacoes/
 Veja mais detalhes sobre os eventos na seção [conferêcias](/conferencias).
 
 
+# Extraindo dados estruturados da web com Python usando Scrapy
+
+> II Seminário de Aplicações de Ciência de Dados (Dezembro de 2018)
+> em Natal, RN
+
+Evento promovido pelo DCA - Departamento de Engenharia de Computação e Automação da UFRN - Universidade Federal do Rio Grande do Norte. Nessa apresentação eu falei um pouco sobre web scraping e como usar a biblioteca Scrapy para extrair dados da web utilizando a linguagem de programação Python. Os slides estão aqui no [Speaker Deck](https://speakerdeck.com/victortorres/extraindo-dados-estruturados-da-web-com-python-usando-scrapy).
+
 # Minicurso de Scrapy
 
 > Poticon 2018
