@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Como usar mais de uma shave SSH com git"
+title:  "Como usar mais de uma chave SSH com git"
 date:   2018-12-03 12:00:00 -0300
 categories: git, ssh
 comments: true
