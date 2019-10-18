@@ -4,6 +4,7 @@
 
 @import "minima";
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
 
 body {
   font-family: 'Noto Sans', sans-serif;
@@ -23,4 +24,18 @@ p {
   margin-inline-end: 0px;
   line-height: 2;
   margin: 1.5em 0;
+}
+
+.p-author {
+  font-weight: bold;
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+  border-radius: 10px;
+}
+
+:not(pre)>code[class*=language-] {
+  padding: 5px;
+  border-radius: 10px;
 }
