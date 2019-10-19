@@ -16,7 +16,7 @@ Hoje ela possui quase uma década de mercado e ocupa um andar inteiro de um dos 
 
 Um dos recursos mais importantes que implementei foi o suporte à multi-tenancy, o que representou um grande salto para a plataforma e um desafio para todos do time, pois era necessário escalar e distribuir a nossa solução. Durante esse projeto, eu interagia diariamente no Slack com um time de desenvolvimento remoto da Star2Star, uma das nossas empresas parceiras baseada na Flórida, e fazia chamadas de videoconferência semanalmente em Inglês.
 
-No dia-a-dia, eu implementava novas funcionalidades, participava de decisões de arquitetura de software e ajudava a recuperar a operação de clientes quando aconteciam incidentes críticos. Ao longo do tempo, acabei assumindo um papel de liderança na equipe, organizando o backlog, realizando as reuniões e ritos do Scrum e gerenciando o Sprint. Fiz muitos amigos lá dentro e a minha maior paixão era poder remover impedimentos.
+No dia a dia, eu implementava novas funcionalidades, participava de decisões de arquitetura de software e ajudava a recuperar a operação de clientes quando aconteciam incidentes críticos. Ao longo do tempo, acabei assumindo um papel de liderança na equipe, organizando o backlog, realizando as reuniões e ritos do Scrum e gerenciando o Sprint. Fiz muitos amigos lá dentro e a minha maior paixão era poder remover impedimentos.
 
 Em 2016 eu fui convidado e patrocinado pela empresa para participar da ClueCon em Chicago, nos Estados Unidos. Veja mais em [conferências](/conferencias).
 
@@ -45,7 +45,7 @@ O sistema foi feito em Python utilizando o framework Django. Havia também uma l
 > de março de 2017 à abril de 2017
 > em San Francisco, CA (remoto)
 
-A Ubby é uma starup do Vale do Silício. Eles fazem uma plataforma de social e-commerce onde os usuários são capazes de compartilhar opiniões e recomendações sobre serviços e produtos, gerando atenção, engajamento e vendas. Os usuários recebem comissões automáticas sobre as vendas feitas através de micro-pagamentos. Isso é possível graças a adoção da tecnologia de Blockchain.
+A Ubby é uma startup do Vale do Silício. Eles fazem uma plataforma de social e-commerce onde os usuários são capazes de compartilhar opiniões e recomendações sobre serviços e produtos, gerando atenção, engajamento e vendas. Os usuários recebem comissões automáticas sobre as vendas feitas através de micro-pagamentos. Isso é possível graças a adoção da tecnologia de Blockchain.
 
 Eles têm aplicações nativas para Android e iOS, que consomem uma API em Node.js hospedada na AWS. Foi uma experiência que durou pouco tempo, pois eu ainda trabalhava na Evolux, mas ela me impactou profundamente. Conheci pessoas muito interessantes como o Guilherme Santana, o Maiko Trindade e o Luíz Augusto, que também é aqui de Natal/RN.
 

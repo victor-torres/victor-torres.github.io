@@ -9,7 +9,7 @@ Quando alguém vai me adicionar em algum repositório no GitHub, não tem erro: 
 
 Mas quando alguém precisa me adicionar num repositório no Bitbucket, principalmente quando esse alguém é uma empresa, que te fornece uma conta de e-mail com o domínio dela, por exemplo, aí fica um pouquinho mais complicado.
 
-Digo isso porque você não pode associar uma mesma chave SSH a mais de uma conta no Bitbucket (o que até faz sentido), então fica um pouco chato pra clonar os repositório e fazer push das modificações. Não é mesmo? Não!
+Digo isso porque você não pode associar uma mesma chave SSH a mais de uma conta no Bitbucket (o que até faz sentido), então fica um pouco chato pra clonar os repositórios e fazer push das modificações. Não é mesmo? Não!
 
 Dá pra resolver isso fácil, fácil. Basta criar uma outra chave SSH, que será exclusiva para essa outra conta. 
 
@@ -34,7 +34,7 @@ Host bitbucket.org-empresa
 
 Percebam que a gente colocou um traço e o nome do domínio da empresa que a gente tem a conta de e-mail! Toda vez que bater esse host a gente vai traduzir em bitbucket.org, como seria normalmente, e vamos sempre usar a chave SSH `nome-empresa` que a gente acabou de criar.
 
-E como faz pra clonar um repositório agora? Digamos que você faria normalmente assim:
+E agora, como faz pra clonar um repositório? Digamos que se você faria normalmente assim:
 
 ```
 git clone git@bitbucket.org:empresa/repositorio.git

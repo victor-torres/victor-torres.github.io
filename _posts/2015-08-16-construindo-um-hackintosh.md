@@ -10,31 +10,31 @@ Hackintosh é como chamam uma máquina genérica (não-apple) que possui instala
 
 # Hardware utilizado
 
-| Componente	| Descrição                 |
+| Componente  	| Descrição                 |
 |---------------|---------------------------|
 | Placa-mãe	    | Asus LGA 1150 H81M-A/BR   |
-| Processador	| Intel Core i3 3,6GHz 4560 |
-| Memória	    | Kingston 4GB 1333 MHz     |
+| Processador 	| Intel Core i3 3,6GHz 4560 |
+| Memória	      | Kingston 4GB 1333 MHz     |
 | Armazenamento	| Kingston 120GB SSD V300   |
  
 
-A máquina ficou muito rápida, não senti falta de processamento e não colocaria um i5 no lugar do i3 escolhido, acho que não compensa o investimento. No entanto, seu eu pudesse colocaria mais um pente de memória para fazer 8GB em dual-channel. Não que a memória comprometa o desempenho da máquina, mas pra executar máquinas virtuais ou trabalhar com Photoshop, por exemplo, mais memória ajuda.
+A máquina ficou muito rápida, não senti falta de processamento e acho que não precisaria colocaria um i5 no lugar do i3 escolhido porque o desempenho de um i3 desktop é infinitamente melhor do que um i5 mobile (para notebook), acho que não compensa o investimento pro tipo de uso que eu vou ter no computador. No entanto, se eu pudesse, colocaria mais um pente de memória para fazer 8GB em dual-channel. Não que a memória comprometa o desempenho da máquina, mas pra executar máquinas virtuais ou trabalhar com Photoshop, por exemplo, mais memória ajuda.
 
 São peças relativamente baratas e fáceis de encontrar no mercado brasileiro, quer seja em lojas físicas ou em lojas virtuais. Tudo custou um pouco mais de mil reais porque acrescentei o SSD. Não tive custos com o gabinete, nem com a fonte, pois herdei eles da antiga máquina. Tenho um monitor Samsung de 23″ Full HD e kit de Teclado e Mouse Microsoft, baratos e muito bons.
 
 
 # Criando um disco de instalação
 
-| Componente	| Descrição                 |
+| Componente    | Descrição                 |
 |---------------|---------------------------|
-| Pendrive	    | Kingston 8GB DataTraveler |
-| Aplicativo	| Instalador do Yosemite    |
-| Aplicativo	| Unibeast                  |
+| Pendrive      | Kingston 8GB DataTraveler |
+| Aplicativo    | Instalador do Yosemite    |
+| Aplicativo    | Unibeast                  |
  
 
 Como já possuo Mac OS X (utilizo um Macbook Air 13″), utilizei o Unibeast para gerar um disco de instalação do Mac OS X Yosemite, que pode ser baixado gratuitamente pela App Store e já veio atualizado para o 10.10.4, última versão disponível quando fiz o procedimento. Precisei de um pendrive de 8GB formatado pelo Disk Utility.
 
-Devem haver outras alternativas pra quem utiliza Windows, Linux ou outro sistema operacional para gerar um disco de instalação, mas não vou cobrir elas aqui.
+Deve haver outras alternativas pra quem utiliza Windows, Linux ou outro sistema operacional para gerar um disco de instalação, mas não vou cobrir elas aqui.
 
 
 # Instalando o Mac OS X
@@ -46,13 +46,13 @@ Não existe, basicamente, nenhuma alteração no instalador original da Apple. O
 
 # Instalando drivers e configurando o boot
 
-| Componente	| Descrição                 |
+| Componente    | Descrição                 |
 |---------------|---------------------------|
 | Kext	        | Intel HD Graphics 4400    |
 | Kext	        | Realtek ALC887b/888       |
-| Aplicativo	| Kext Wizard               |
-| Aplicativo	| Multibeast                |
-| Aplicativo	| TRIM Enabler              |
+| Aplicativo    | Kext Wizard               |
+| Aplicativo    | Multibeast                |
+| Aplicativo    | TRIM Enabler              |
  
 
 É raro tudo funcionar 100% numa máquina hackintosh. No meu caso, ficou faltando apenas o driver da placa de rede Ethernet e o driver de vídeo. O sistema iniciou com vídeo, inclusive em alta resolução, mas não havia aceleração gráfica, o que significa nada de transparência ou vídeos.
@@ -71,7 +71,7 @@ Instale apenas as kexts FakePCIID_HD4600_HD4400.kext e FakeCPIID.kext.
 
 # Áudio
 
-O hardware de áudio dessa placa-mão é bem genérico, apesar de não estar disponível por padrão no Mac OS X, pode ser facilmente instalado através do MultiBeast. Abra o programa e clique em Clear para limpar a auto-seleção de coisas. Selecione a aba Drivers e marque apenas o driver de áudio referente aos dispositivos com chipset Realtek ALC887b/888 (current). Avance com a instalação. Após concluí-la, reinicie o computador.
+O hardware de áudio dessa placa-mão é bem genérico, apesar de não estar disponível por padrão no Mac OS X, pode ser facilmente instalado através do MultiBeast. Abra o programa e clique em Clear para limpar a auto-seleção de coisas. Selecione a aba Drivers e marque apenas o driver de áudio referente aos dispositivos com chipset Realtek ALC887b/888 (current). Avance com a instalação. Após concluí-la, reinicie o computador. Você também pode usar uma interface de áudio externa através de USB, se preferir. Dá até pra montar um home studio com seu hackintosh e uma interface de áudio bacana.
 
 
 # Disco
@@ -94,4 +94,4 @@ O conteúdo deverá ser o seguinte:
 
 # Corrigindo problemas
 
-Se por acaso algum problema acontecer durante a instalação do OS X, inicie o instalador com a opção `-v`. Isso quer dizer para ele iniciar em modo verboso e emitir um registro de todo e qualquer erro que acontecer na interface de vídeo. Dessa forma você poderá identificar o problema pesquisando em fóruns e blogs na Internet, como por exemplo os famosos Kernel Panics.
+Se por acaso algum problema acontecer durante a instalação do OS X, inicie o instalador com a opção `-v`. Isso quer dizer para ele iniciar em modo verboso e emitir um registro de todo e qualquer erro que acontecer na interface de vídeo. Dessa forma você poderá identificar o problema pesquisando em fóruns e blogs na Internet, como por exemplo os famosos Kernel Panics. Às vezes esses erros aparecem e somem de maneira muito rápida, então uma dica interessante é gravar um vídeo com o seu celular no modo câmera lenta para depois pausar exatamente na parte que te interessa. Assim fica mais fácil ler os erros.
