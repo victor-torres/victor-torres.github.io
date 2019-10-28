@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reiniciando builds do Travis sem ser dono do projeto"
-date: 2019-09-09 08:00:00 -0300
+date: 2019-10-22 08:00:00 -0300
 categories: git, github, travis
 comments: true
 ---
