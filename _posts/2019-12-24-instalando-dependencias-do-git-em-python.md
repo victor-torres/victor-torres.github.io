@@ -5,7 +5,7 @@ date: 2019-12-24 08:30:00 -0300
 categories: git, python, pip, pipenv
 comments: true
 ---
-Supondo que nós queremos instalar a biblioteca request, mas ao invés de usar a origem padrão, queremos que ela seja instalada a partir de seu repositório git. Pra fazer isso, basta adicionar a seguinte linha no seu `requirements.txt`:
+Supondo que nós queremos instalar a biblioteca requests, mas ao invés de usar a origem padrão, queremos que ela seja instalada a partir de seu repositório git. Pra fazer isso, basta adicionar a seguinte linha no seu `requirements.txt`:
 
 ```
 git+https://github.com/requests/requests.git
