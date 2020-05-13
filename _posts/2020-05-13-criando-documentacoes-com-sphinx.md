@@ -379,6 +379,45 @@ Ele deverá ficar parecido com isto:
 
 Aqui a brincadeira começa a ficar boa. Vamos usar o módulo `autodoc` para criar documentação de módulos, classes e funções da API do nosso pacote automaticamente. 
 
+O `autodoc` consegue descobrir as partes do seu código-fonte e gerar uma documentação automática pra ele, baseado em suas definições, anotações de tipo, retorno e docstrings.
+
+Dentro das docstrings (do módulo, das classes ou das funções) você pode ir adicionando conteúdo que será inserido dentro da sua documentação depois de exportada. 
+
+Isso é excelente porque evita que você tenha de duplicar conteúdo inserindo texto tanto no código quanto na documentação e evita que exista uma diferença nesse conteúdo. Como ele é gerado automaticamente, vai estar sempre atualizado.
+
+Dentro das docstrings, você também pode utilizar reStructuredText e diretivas do Sphinx, o que é muito interessante para referenciar documentações ou módulos externos. Por exemplo, imagine o seguinte arquivo Python:
+
+```python
+"""Texto sobre meu módulo"""
+
+
+class MinhaClasse(object):
+    """Texto sobre minha classe, que por sua vez,
+    referencia :class:`.OutraClasse`.
+    """
+
+    def metodo(self):
+        """Texto sobre meu método."""
+        pass
+
+
+class OutraClasse(MinhaClasse):
+    """Texto sobre outra classe.
+    
+    .. code-block:: python
+
+        # Exemplo
+        obj = OutraClasse()
+
+    """
+
+    def metodo(self):
+        """Overrides :method:`.MinhaClasse.metodo`."""
+    pass
+```
+
+Tem muita coisa disponível na própria [Documentação do Sphinx](https://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html?highlight=%3Aclass%3A#cross-referencing-python-objects). Recomendo também pesquisar um pouco mais sobre o `autodoc` e suas diretivas [aqui](https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html).
+
 Uma opção é pedir pra que o Sphinx gere a documentação do módulo automaticamente:
 
 ```rst
@@ -453,6 +492,8 @@ Não esquecer de atualizar o `toctree` principal:
 O resultado final fica assim:
 
 ![Sphinx API Reference](/assets/images/2020-05-13-sphinx-api-reference.png)
+
+Todo esse texto já estava contido nas docstrings do projeto, que suporta rst.
 
 ## Guia de instalação
 
