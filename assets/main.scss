@@ -35,6 +35,10 @@ pre[class*="language-"] {
   border-radius: 10px;
 }
 
+pre[class*="language-"] {
+  margin-bottom: 1.5em;
+}
+
 :not(pre)>code[class*=language-] {
   padding: 5px;
   border-radius: 10px;
