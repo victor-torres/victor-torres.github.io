@@ -21,7 +21,9 @@ O [Read the Docs](https://readthedocs.org/) é uma plataforma open-source de hos
 
 ## reStructuredText
 
-TODO falar do formato etc, parece com md, tem que aprender etc
+reStructuredText é a linguagem de marcação de texto padrão do Sphinx. Ela serve a um propósito semelhante ao do Markdown.
+
+Recomendo que você aprenda pelo menos o básico sobre sua utilização [aqui](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html).
 
 ## Antes de começar
 
@@ -586,3 +588,7 @@ sphinxcontrib-serializinghtml==1.1.4
 ```
 
 Esse arquivo pode ser utilizado pelo Read the Docs para instalar dependências necessárias para a construção da documentação, por exemplo, módulos que serão linkados por alguma parte do texto ou gerados automaticamente com o `autodoc`.
+
+O deploy no Read the Docs é algo que eu planejo escrever sobre em um próximo artigo.
+
+Espero que tenham gostado. Acho que esse foi o maior post aqui no blog até agora :)
