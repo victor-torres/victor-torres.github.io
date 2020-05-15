@@ -567,7 +567,7 @@ Vou fazer a mesma coisa para o Tutorial, mas pra não alongar muito o post, vou 
 Dá pra fazer referência a outras documentações usando Sphinx. O seguinte código, por exemplo:
 
 ```rst
-How to create a :ref:`spider <scrapy:topics-spiders>`
+How to create a :ref:`Spider <scrapy:topics-spiders>`
 ```
 
 Pode gerar o seguinte texto:
