@@ -599,10 +599,7 @@ Gosto de ignorar as pastas temporárias para que elas não sejam versionadas no 
 Adicionei isto ao .gitignore do projeto:
 
 ```shell
-# Docs
 docs/_build
-docs/_static
-docs/_templates
 ```
 
 ### requirements.txt
