@@ -12,11 +12,11 @@ Evento nacional realizado anualmente para reunir a comunidade Python brasileira.
 
 Foi também uma oportunidade de conhecer meus colegas de trabalho remoto da Scrapinghub.
 
-# Crescendo com o Google: Marketing Digital
+# Cresça com o Google: Marketing Digital
 
 > Natal, RN
 
-O Crescendo com o Google é um evento aberto à comunidade muito interessante. Ele apresenta conceitos de marketing digital e ferramentas oferecidas pela empresa, possibilitando que as pessoas potencializem negócios e causem impacto através de sua presença digital. O evento aqui em Natal reuniu mais de mil pessoas no centro de convenções da cidade e foi muito divertido. Fiquei realmente impressionado com a diversidade do público: tinha gente da área de desenvolvimento de software, agências de publicidade e marketing, mas também haviam pessoas comuns e também de outras áreas, cada um com um tipo diferente de negócio.
+O Cresça com o Google é um evento aberto à comunidade muito interessante. Ele apresenta conceitos de marketing digital e ferramentas oferecidas pela empresa, possibilitando que as pessoas potencializem negócios e causem impacto através de sua presença digital. O evento aqui em Natal reuniu mais de mil pessoas no centro de convenções da cidade e foi muito divertido. Fiquei realmente impressionado com a diversidade do público: tinha gente da área de desenvolvimento de software, agências de publicidade e marketing, mas também haviam pessoas comuns e também de outras áreas, cada um com um tipo diferente de negócio.
 
 
 # Python Nordeste 2018
