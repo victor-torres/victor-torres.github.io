@@ -4,6 +4,22 @@ title: Experiência
 permalink: /experiencia/
 ---
 
+# Scrapinghub
+
+> Software Engineer
+> desde setembro de 2018
+> em Cork, Irlanda (remoto)
+
+A Scrapinghub é líder mundial em web scraping. A empresa oferece serviços de extração de dados sob-demanda, ferramentas de desenvolvimento e plataformas, como o Scrapy Cloud e o Crawlera. Atualmente, ela mantém a biblioteca open-source Scrapy.
+
+Trabalhando na Scrapinghub, tive a oportunidade de:
+
+- contribuir com funcionalidades-chave e correções na biblioteca Scrapy
+- distribuir e escalar operações de crawling (raspagem de dados) de larga escala
+- descobrir e extrair dados de grandes websites
+- trabalhar remotamente com um time diverso e distribuído globalmente
+
+
 # Evolux Sistemas
 
 > Desenvolvedor de software 
