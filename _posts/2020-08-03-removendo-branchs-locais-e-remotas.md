@@ -7,25 +7,25 @@ comments: true
 ---
 Mais uma dica simples e muito útil para remover branches locais e remotas no git:
 
-# Removendo branches locais
+## Removendo branches locais
 
 ```shell
 git branch -d <nome da branch>
 ```
 
-## Exemplo
+### Exemplo
 
 ```shell
 git branch -d bugfix/1234
 ```
 
-# Removendo branches remotas
+## Removendo branches remotas
 
 ```shell
 git push <nome do remote> --delete <nome da branch>
 ```
 
-## Exemplo
+### Exemplo
 
 ```shell
 git push origin --delete bugfix/4567
