@@ -6,7 +6,7 @@ categories: statistics, latency, micro-services
 comments: true
 ---
 Este é o primeiro post no formato "links da semana". 
-Come este novo formato, eu tento aumentar o número de publicações no blog
+Com este novo formato, eu tento aumentar o número de publicações no blog
 incluindo links para materiais interessantes,
 incluindo textos e vídeos,
 que eu tive a chance de consumir ao longo da semana.
