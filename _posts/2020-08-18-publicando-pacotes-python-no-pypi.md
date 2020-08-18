@@ -79,7 +79,7 @@ index-servers=
 
 [pypi]
 username=<username>
-password=<password
+password=<password>
 
 [pypitest]
 username=<username>
