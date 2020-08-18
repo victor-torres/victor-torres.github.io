@@ -32,7 +32,7 @@ Mail version 8.1 6/6/93.  Type ? for help.
 ?
 ```
 
-Se você prestar atenção, tem um prompt sinalizado pelo caracter `?`.
+Se você prestar atenção, tem um prompt sinalizado pelo caractere `?`.
 Você pode enviar comandos para a aplicação.
 Vou falar os mais básicos e necessários:
 
