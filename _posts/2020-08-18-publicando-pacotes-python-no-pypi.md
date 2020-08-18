@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Publicando pacotes Python"
+title:  "Publicando pacotes Python no PyPI"
 date: 2020-08-18 16:50:00 -0300
 categories: python, pypi
 comments: true
@@ -42,7 +42,7 @@ pip install twine
 ```
 
 É preciso configurar o Twine com sua conta no PyPI para poder publicar seu pacote no índice.
-Para isso, entre no site e faça o seu cadastro: https://pypi.org/.
+Para isso, entre no site e faça o seu cadastro: [https://pypi.org/](https://pypi.org/).
 
 # Verificando seu pacote
 
